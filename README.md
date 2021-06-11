@@ -1,9 +1,10 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Nicolás González Barrera
+*An Aspiring Data Scientist*
 
 # Education
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelor of Industrial Engineer, *YouTube University*, 2016-2022
+
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![crypto sentiment analysis](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
